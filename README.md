@@ -67,8 +67,8 @@ The `/status` command also shows you which features are currently active. Let's 
 
 **Managing Users:**
 
-*   **Unban:** `/unban @username` or reply to a user's message with `/unban`.
 *   **Ban:** `/ban @username` or reply to a user's message with `/ban`.
+*   **Unban:** `/unban @username` or reply to a user's message with `/unban`.
 *   **Report Missed Spam:** Reply to a suspected spam message with `/report`. The message will be deleted, and your report helps improve the bot's accuracy.
 
 ### IMAGEFILTER
@@ -98,7 +98,6 @@ These related functions operate similarly, blocking specific types of content:
 
 *   `/warningbans`: This feature automatically bans users for repeated rule violations across all groups using ProtectronBot. Use with caution, as it can ban new members who've broken rules in other groups.
    *   **Note** Protectron keeps a global database of rule-breakers, making this feature very effective.
-*   **Unban:** Use `/unban @username` or reply to a message with `/unban`.
 
 ### NOBOTS
 

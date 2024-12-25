@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: ProtectronBot Documentation
+description: Your guide to using and configuring ProtectronBot, the ultimate Telegram group management bot.
+
+# Enable Google Analytics
+google_analytics: G-CSHN6P3QZE

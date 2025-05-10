@@ -1,7 +1,7 @@
 # Welcome to the ProtectronBot Documentation!
 
 This guide will teach you how to install and configure [@protectronbot](http://t.me/protectronbot) for your Telegram group. We'll also explain all of the bot's features. Please join our channel: [https://t.me/protectronnews](https://t.me/protectronnews)
-Please join our group: [https://t.me/waho_bangladesh1](https://t.me/waho_bangladesh1)
+
 ## What ProtectronBot Can Do:
 
 ProtectronBot is a powerful Telegram bot designed to keep your group clean, safe, and free from spam. Here's a summary of its capabilities:
